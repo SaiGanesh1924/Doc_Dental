@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { CheckCircle, Star } from "lucide-react";
 
 const benefits = [
-  "Secure image storage with AWS S3",
+  "Secure image storage with Cloudinary ",
   "Professional annotation tools",
   "Instant PDF report generation",
   "Role-based access control",
